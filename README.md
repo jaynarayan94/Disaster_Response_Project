@@ -40,5 +40,5 @@ This will help in effective response and action to be taken on each message. The
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Issue/Bug
-Please open issues on github to report bugs or make feature requests or Drop a mail to "jaynarayan94@gmail.com"
+Please open issues on github to report bugs or make feature requests or drop a mail to "jaynarayan94@gmail.com"
 
