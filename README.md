@@ -43,27 +43,24 @@ This will help in effective response and action to be taken on each message. The
 
 5. Go to http://0.0.0.0:3001/
 
-
-* Project Front end link : https://view6914b2f4-3001.udacity-student-workspaces.com/
-
 ### File structure of the project:
-##### - app
+#### - app
 ##### -| - template
 ##### | |- master.html  # main page of web app
 ##### | |- go.html  # classification result page of web app
 ##### |- run.py  # Flask file that runs app
 
-##### - data
+#### - data
 ##### |- disaster_categories.csv  # data to process 
 ##### |- disaster_messages.csv  # data to process
 ##### |- process_data.py
 ##### |- InsertDatabaseName.db   # database to save clean data to
 
-##### - models
+#### - models
 ##### |- train_classifier.py
 ##### |- classifier.pkl  # saved model 
 
-##### - README.md
+#### - README.md
 
 <a name="license"></a>
 ## License [2020 Jay Narayan]
