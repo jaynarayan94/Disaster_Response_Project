@@ -9,7 +9,6 @@ This will help in effective response and action to be taken on each message. The
 <img src="https://github.com/jaynarayan94/Disaster_Response_Project/blob/master/Images/Web%20Layout2.png" width=430px height="300px" />
 </span>
 
-## Getting Started
 ### Dependencies Tools/Libraries
 * Python 3+
 * Scikit-Learn 0.22.1
