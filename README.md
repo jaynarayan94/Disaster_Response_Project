@@ -5,7 +5,7 @@ This will help in effective response and action to be taken on each message. The
 </br>
 
 <span>
-<img src="https://github.com/jaynarayan94/Disaster_Response_Project/blob/master/Images/Web%20Layout.png" width=320px height="300px" />
+<img src="https://github.com/jaynarayan94/Disaster_Response_Project/blob/master/Images/Web%20Layout1.png" width=320px height="300px" />
 <img src="https://github.com/jaynarayan94/Disaster_Response_Project/blob/master/Images/Web%20Layout2.png" width=320px height="300px" />
 </span>
 
